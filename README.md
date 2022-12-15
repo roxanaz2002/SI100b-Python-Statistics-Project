@@ -8,6 +8,7 @@
 In the late 2021, the most valuable and brand value are more than in 10 billion U.S. dollars quick service restaurant brands worldwide.<sup>2</sup>
 
 | Rank    |       Brand           | Value  (billion $)  |
+|  ----   | ----                  | -----               |
 | 1       |     McDonald's        |    15.4921          |
 | 2       |        Starbucks      | 6.0267              |
 | 3       |        KFC            | 1.8189              |
