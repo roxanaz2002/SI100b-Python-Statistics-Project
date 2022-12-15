@@ -16,4 +16,4 @@
 
 
 
--<sup>1</sup> [Wikipedia](https://en.wikipedia.org/wiki/Big_Mac_Index)
+-<div>1</div> [Wikipedia](https://en.wikipedia.org/wiki/Big_Mac_Index)
