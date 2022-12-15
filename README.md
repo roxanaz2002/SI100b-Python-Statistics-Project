@@ -1,9 +1,14 @@
 # SI100b-Python-Statistics-Project
 ## Background
 ### Big Mac Index
->The Big Mac Index is a price index published since 1986 by The Economist as an informal way of measuring the purchasing power parity (PPP) between two currencies and providing a test of the extent to which market exchange rates result in goods costing the same in different countries. It "seeks to make exchange-rate theory a bit more digestible." The index compares the relative price worldwide to purchase the Big Mac, a hamburger sold at McDonald's restaurants.
-[^1]
-[^]:(https://en.wikipedia.org/wiki/Big_Mac_Index)
+>The Big Mac Index is a price index published since 1986 by The Economist as an informal way of measuring the purchasing power parity (PPP) between two currencies and providing a test of the extent to which market exchange rates result in goods costing the same in different countries. It "seeks to make exchange-rate theory a bit more digestible." The index compares the relative price worldwide to purchase the Big Mac, a hamburger sold at McDonald's restaurants.[1]
+
+<div id="refer-anchor-2"></div>
+- [1] [Wikipedia]([http://xueshu.baidu.com/](https://en.wikipedia.org/wiki/Big_Mac_Index)
+
+
+
+
 
 ### 
 
