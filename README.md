@@ -16,4 +16,4 @@
 
 
 
--[1][Wikipedia](https://en.wikipedia.org/wiki/Big_Mac_Index)
+-<sup>1</sup> [Wikipedia](https://en.wikipedia.org/wiki/Big_Mac_Index)
