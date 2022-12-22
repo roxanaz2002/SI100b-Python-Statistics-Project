@@ -74,12 +74,12 @@ Can the Index somehow show the States' political stance? May "Red" or "Blue" hav
 
 ## Reference 
 
-<sup>1</sup> [Wikipedia](https://en.wikipedia.org/wiki/Big_Mac_Index)
+[1]: <https://en.wikipedia.org/wiki/Big_Mac_Index>
 
-<sup>2</sup> [Statista](https://www.statista.com/statistics/273057/value-of-the-most-valuable-fast-food-brands-worldwide/)
+[2]: <https://www.statista.com/statistics/273057/value-of-the-most-valuable-fast-food-brands-worldwide/>
 
-<sup>3</sup><https://www.fastfoodmenuprices.com/mcdonalds-prices/>
+[3]: <https://www.fastfoodmenuprices.com/mcdonalds-prices/>
 
-<sup>4</sup> [McDonald's Best Selling](https://www.rd.com/list/bestselling-mcdonalds-menu-items/)
+[4]: <https://www.rd.com/list/bestselling-mcdonalds-menu-items/>
 
-<sup>5</sup> [2022 Midterm Statemap](https://www.theguardian.com/us-news/ng-interactive/2022/nov/15/house-election-results-2022-live-senate-us-midterm-state-map-latest-winners-congress)
+[5]: <https://www.theguardian.com/us-news/ng-interactive/2022/nov/15/house-election-results-2022-live-senate-us-midterm-state-map-latest-winners-congress>
