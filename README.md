@@ -35,15 +35,37 @@ We have apply a spider to help us to get the data. And plot them by python packa
 ## Body
 ### The McDonald's Index
 Now, let us begin the journey! 
-
-In this period, we have crawled the regular recipe in whole U.S.A.(Happy Meals|$1 $2 $3 Menu|Sauces|Limited Time Offers are not included) <sup>3</sup>
+ 
+Though the Big Mac Index always serves as a indicator of the purchasing power of a country's currency, we can still use the information to analysis the food cost in different States.  
+In this period, we have crawled the regular recipe in whole U.S.A.(Happy Meals,$1$2$3 Menu, Sauces, Limited Time Offers are not included) <sup>3</sup>
 And choose some of them to take the place of Big Mac. Making index by new food and compare them with the GDP of each state.
 
-### The PPP of each state
+Regarding the popularity, and from the 10 Bestselling McDonald’s Menu Items, we choose these items to be index. <sup>4</sup>
 
- Here we plot the scatter plot with the x-axis showing the price of the goods and y-axis showing the GDP of each states. It is obvious that the more a point adjacent to the bottom left corner, the more difficult people in this state to afford to buy this food. In the opposite, the life tend to be easier for the people who live in the State whose point is near the top right corner.
+Double cheeseburger(2 cheeseburger)
 
-### The relationship with the election results
+Filet-O-Fish
+
+Bacon Ranch Salad
+
+Apple slices
+
+French Fries
+
+Premium McWrap Chicken & Bacon (Grilled or Crispy)
+
+Shake (Chocolate, Vanilla, or Strawberry)
+
+Cone (Vanilla)
+
+McFlurry
+
+And do not forget our hero---the **Big Mac**
+### The PPP of each State
+
+Here we plot the scatter plot with the x-axis showing the price of the goods and y-axis showing the GDP of each states. It is obvious that the more a point adjacent to the bottom left corner, the more difficult people in this state to afford to buy this food. In the opposite, the life tend to be easier for the people who live in the State whose point is near the top right corner.
+
+### The Relationship with the Election Results
 
 Can the Index somehow show the States' political stance? May "Red" or "Blue" have some similarities with the index?
 
@@ -55,4 +77,7 @@ Can the Index somehow show the States' political stance? May "Red" or "Blue" hav
 <sup>1</sup> [Wikipedia](https://en.wikipedia.org/wiki/Big_Mac_Index)
 
 <sup>2</sup> [Statista] (https://www.statista.com/statistics/273057/value-of-the-most-valuable-fast-food-brands-worldwide/)
+
 <sup>3</sup> [Fastfood/McDonald's] (https://www.fastfoodmenuprices.com/mcdonalds-prices/)
+
+<sup>4</sup> [McDonald's Best Selling] (https://www.rd.com/list/bestselling-mcdonalds-menu-items/)
