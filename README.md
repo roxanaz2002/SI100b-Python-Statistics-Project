@@ -20,29 +20,29 @@ And without losing universality, we choose the first 6 brands whose values are m
 | 6       |        Chipolto       |       1.1996        |
     
 ## Introduction
-From the table above we can see McDonald's is absolutely the most competitive. But is the Big Mac Index as competitve as the brand itself?
-In this project, we aim at finding other 'index's of the following 5 brands, to explore whether they can reflect the economy in each country or region. 
-We will explore in the following steps,
-1. Choose the most wide-spread and popular product of each brands and obtain their prices in our selected states. 
-2. 
-3. 
-4.
+From the table above we can see McDonald's is absolutely the most competitive. The price of Big Mac is choosen to reflect the Theory of Purchasing Power Parity(PPP). That is the purchasing Power can be shown by particular item's price. Is the Big Mac the best one that fit the theory. We decide to try other items in McDonald's and try to find how other food agree with the GDP.
+
+There are drawbacks of the Big Mac Index since it is a lighthearted guide of economy:
+(1) People in different countries or regions has different eating habits, so we cannot just focus on one single item.
+(2) The price of Big Mac is affected by the **price law**, **tariffs**, **taxes** etc. In addition, pricing may also vary due to **trade barriers** between countries. Hence the index cannot be regarded as an accurate economic indicator.
+
+To tackle the problem, we target at the United States only, and research on the index of each **State**. This method abates the influence mentioned in (1), and can somehow show the living standards among America. 
+
 ### Research Method
+We have apply a spider to help us to get the data. And plot them by python package.
 
+## The McDonald's Index
+Now, let us begin the journey! 
 
-##
-Now, let us begin the journey!
-Since there have been 
+In this period, we have crawled the regular recipe in whole U.S.A.(Happy Meals|$1 $2 $3 Menu|Sauces|Limited Time Offers are not included) <sup>3</sup>
+And choose some of them to take the place of Big Mac. Making index by new food and compare them with the GDP of each state.
 
-Global personal finance comparison website, Finder.com, released a more comprehensive Starbucks Index in 2019, which analyzed coffee prices for a tall latte in 76 countries and autonomous regions around the world. The report included a Latte Line, which measured the correlation between the price of coffee and a country's GDP.
-## The 'One'-the Products chosen
-|  Brand name    |     McDonald's         |   Starbucks         |    KFC         |     Subway           | Domino's Pizza      |        Chipolto   |
-|  ----          | ----                   | -----               |     ----       |       -----          |      -----          |          -----    |
-| Items          |     Big Mac            |    Tall Latte       |                |
+## The PPP of each state
 
-
+ Here we plot the scatter plot with the x-axis showing the price of the goods and y-axis showing the GDP of each states. It is obvious that the more a point adjacent to the bottom left corner, the more difficult people in this state to afford to buy this food. In the opposite, the life tend to be easier for the people who live in the State whose point is near the top right corner.
 ## Reference 
 
 <sup>1</sup> [Wikipedia](https://en.wikipedia.org/wiki/Big_Mac_Index)
 
-<sup>2</sup> [Statista](https://www.statista.com/statistics/273057/value-of-the-most-valuable-fast-food-brands-worldwide/)
+<sup>2</sup> [Statista] (https://www.statista.com/statistics/273057/value-of-the-most-valuable-fast-food-brands-worldwide/)
+<sup>3</sup> [Fastfood/McDonald's] (https://www.fastfoodmenuprices.com/mcdonalds-prices/)
