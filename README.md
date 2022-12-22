@@ -67,7 +67,7 @@ Here we plot the scatter plot with the x-axis showing the price of the goods and
 
 ### The Relationship with the Election Results
 
-Can the Index somehow show the States' political stance? May "Red" or "Blue" have some similarities with the index?
+Can the Index somehow show the States' political stance? May "Red" or "Blue" have some similarities with the index? With the Midterm election coming to an end, we have the data about how much a party controls a State---the approval ratings of the candidates from different parties. We plot the results in the form of quotient of the proportion of the Democrats(D) and the Republican(R). The information was provided by the Associated Press(AP).and we have it from the Guardian.<sup>5</sup>  
 
 ## Conclusion 
 
@@ -81,3 +81,5 @@ Can the Index somehow show the States' political stance? May "Red" or "Blue" hav
 <sup>3</sup> [Fastfood/McDonald's] (https://www.fastfoodmenuprices.com/mcdonalds-prices/)
 
 <sup>4</sup> [McDonald's Best Selling] (https://www.rd.com/list/bestselling-mcdonalds-menu-items/)
+
+<sup>5</sup> [2022 Midterm Statemap](https://www.theguardian.com/us-news/ng-interactive/2022/nov/15/house-election-results-2022-live-senate-us-midterm-state-map-latest-winners-congress))
