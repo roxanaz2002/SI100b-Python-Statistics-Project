@@ -31,15 +31,25 @@ To tackle the problem, we target at the United States only, and research on the 
 ### Research Method
 We have apply a spider to help us to get the data. And plot them by python package.
 
-## The McDonald's Index
+
+## Body
+### The McDonald's Index
 Now, let us begin the journey! 
 
 In this period, we have crawled the regular recipe in whole U.S.A.(Happy Meals|$1 $2 $3 Menu|Sauces|Limited Time Offers are not included) <sup>3</sup>
 And choose some of them to take the place of Big Mac. Making index by new food and compare them with the GDP of each state.
 
-## The PPP of each state
+### The PPP of each state
 
  Here we plot the scatter plot with the x-axis showing the price of the goods and y-axis showing the GDP of each states. It is obvious that the more a point adjacent to the bottom left corner, the more difficult people in this state to afford to buy this food. In the opposite, the life tend to be easier for the people who live in the State whose point is near the top right corner.
+
+### The relationship with the election results
+
+Can the Index somehow show the States' political stance? May "Red" or "Blue" have some similarities with the index?
+
+## Conclusion 
+
+
 ## Reference 
 
 <sup>1</sup> [Wikipedia](https://en.wikipedia.org/wiki/Big_Mac_Index)
